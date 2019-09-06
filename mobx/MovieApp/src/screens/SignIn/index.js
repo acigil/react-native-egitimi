@@ -3,7 +3,7 @@ import {Body, Header, Title} from "native-base";
 
 import SigninForm from './SigninForm';
 
-export default class Signup extends Component {
+export default class SingIn extends Component {
 	render() {
 		return (
 			<React.Fragment>
